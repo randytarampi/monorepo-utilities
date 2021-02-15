@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo-utilities/list-packages-by-directory",
+  "name": "@randy.tarampi/list-packages-by-directory",
   "version": "0.1.1",
   "description": "List packages by directory ፨",
   "main": "dist/index.js",
@@ -29,22 +29,22 @@
   "publishConfig": {
     "access": "public"
   },
-  "author": "yowainwright <yowainwright@gmail.com>",
-  "homepage": "https://github.com/yowainwright/monorepo-utilities#readme",
+  "author": "randytarampi <randytarampi@gmail.com>",
+  "homepage": "https://github.com/randytarampi/monorepo-utilities#readme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yowainwright/monorepo-utilities.git"
+    "url": "git+https://github.com/randytarampi/monorepo-utilities.git"
   },
   "scripts": {
     "build": "tsc",
     "clean": "rimraf dist"
   },
   "bugs": {
-    "url": "https://github.com/yowainwright/monorepo-utilities/issues"
+    "url": "https://github.com/randytarampi/monorepo-utilities/issues"
   },
   "jest": {
-    "name": "@monorepo-utilities/list-packages-by-directory",
+    "name": "@randy.tarampi/list-packages-by-directory",
     "projects": [
       "<rootDir>/packages/*"
     ],

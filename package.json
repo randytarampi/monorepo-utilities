@@ -1,10 +1,10 @@
 {
-  "name": "@monorepo-utilities/root",
+  "name": "@randy.tarampi/root",
   "version": "0.0.1",
   "description": "Utilities for monorepo development",
   "main": "README.md",
-  "repository": "git@github.com:yowainwright/monorepo-utilities.git",
-  "author": "yowainwright <yowainwright@gmail.com>",
+  "repository": "git@github.com:randytarampi/monorepo-utilities.git",
+  "author": "randytarampi <randytarampi@gmail.com>",
   "license": "MIT",
   "private": true,
   "dependencies": {
